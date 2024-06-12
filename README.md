@@ -1,28 +1,16 @@
 <!-- Your Name -->
 <h1 align="center">Hi there, I'm Pallab 👋</h1>
 
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 <!-- Your Introduction -->
 <h3 align="center">A passionate computer science enthusiast from India</h3><br><br>
 
-<!-- current status -->
-<h3 align="left">Status:</h3>
-<p align="left"><b>(Open to work)</b> Seeking full time opportunity as a Software Developer.</p>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 
-<br><br>
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3><br>
-
-
-<a href="https://www.linkedin.com/in/pallab-mondal-b1a100234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;  <a href="mailto:officialpallabmondal000@gmail.com" target="blank"><img align="center" src="images/gmail-logo.png" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>
-
-
-
-
-
-
-
-<br><br>
 
 <!-- Languages & Tools -->
 <h3 align="left">Languages & Tools:</h3><br>
@@ -161,5 +149,23 @@
 <b>B.Tech Computer Science & Engineering</b>
 <p><b>graduated from:</b> Quantum University, Roorkee, India</p>
 <p><b>Graduation Year:</b> 2023</p>
+
+<br><br>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<!-- current status -->
+<h3 align="left">Status:</h3>
+<p align="left"><b>(Open to work)</b> Seeking full time opportunity as a Software Developer.</p>
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<br><br>
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3><br>
+
+
+<a href="https://www.linkedin.com/in/pallab-mondal-b1a100234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;  <a href="mailto:officialpallabmondal000@gmail.com" target="blank"><img align="center" src="images/gmail-logo.png" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>
+
+<br><br>
 
 
