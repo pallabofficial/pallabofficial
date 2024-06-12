@@ -2,20 +2,24 @@
 <h1 align="center">Hi there, I'm Pallab 👋</h1>
 
 <!-- Your Introduction -->
-<h3 align="center">A passionate computer science enthusiast from India</h3>
+<h3 align="center">A passionate computer science enthusiast from India</h3><br><br>
 
+<!-- current status -->
+<h3 align="left">Status:</h3>
+<p align="left"><b>(Open to work)</b> Seeking full time opportunity as a Software Developer.</p>
+
+
+<br><br>
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3><br>
 
-<a href="https://www.linkedin.com/in/pallab-mondal-b1a100234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/pallab-mondal-b1a100234/" target="blank"><img align="center" src="https://pixabay.com/illustrations/logo-gmail-email-1162901/" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pallab-mondal-b1a100234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>  &nbsp;&nbsp;&nbsp;  <a href="mailto:officialpallabmondal000@gmail.com" target="blank"><img align="center" src="images/gmail-logo.png" alt="pallab-mondal-b1a100234" height="30" width="40" /></a>
 
 
 
 
-</p>
+
 
 
 <br><br>
@@ -47,9 +51,9 @@
 </details><br><br>
 
 <details>
-  <summary><b>Kairocraft</b>  &nbsp;  [https://kairocraft.netlify.app/]</summary><br>
-  <p><b>About:- </b>Modern UI/UX, sleek design, seamles animations, and standard user experience.</p>
-  <p><b>Technology Used:- </b> &nbsp; <b>reactJS</b> &nbsp; <b>vite</b> &nbsp; <b>Tailwind CSS</b></p>
+  <summary><b>Sun Studios</b>  &nbsp;  [https://pallabofficialsunstudio.netlify.app/]</summary><br>
+  <p><b>About:- </b> Sun Studios is a front-end project spotlighting the portfolio of Sun Studios, a service-based company offering exceptional web development service. Explore the showcase of innovative web solutions, demonstrating the creative excellence of Sun Studio's service offerings.</p>
+  <p><b>Technology Used:- </b> &nbsp; <b>Javascript</b> &nbsp; <b>Tailwind</b> &nbsp; <b>GSAP</b></p>
 </details><br><br>
 
 
