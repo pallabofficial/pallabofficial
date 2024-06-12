@@ -83,6 +83,86 @@
   <p><b>Link:</b> [Project 5 Link]</p>
 </details>
 
+<details>
+  <summary><b>[Project 6 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 7 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 8 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 9 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 10 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 11 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 12 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 13 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 14 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
+<details>
+  <summary><b>[Project 15 Name]</b></summary>
+  <p><b>About:</b> [Project 5 Description]</p>
+  <p><b>Purpose:</b> [Project 5 Purpose]</p>
+  <p><b>Technology Used:</b> [Project 5 Tech]</p>
+  <p><b>Link:</b> [Project 5 Link]</p>
+</details>
+
 <!-- Education -->
 <h3 align="center">Education:</h3>
 
